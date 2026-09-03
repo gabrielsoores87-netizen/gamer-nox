@@ -1,0 +1,9 @@
+{
+  "name": "gamer-nox",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portal editorial sobre histórias de videogames",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
